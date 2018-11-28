@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/2018/hugo/</loc>
-      
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
       <loc>/2018/0.48-relnotes/</loc>
       
       <lastmod>2018-08-29T00:00:00+00:00</lastmod>
@@ -163,30 +153,6 @@
     </url>
   
     <url>
-      <loc>/tags/github/</loc>
-      
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/hexo/</loc>
-      
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>/tags/hugo/</loc>
       
       <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -211,19 +177,7 @@
     <url>
       <loc>/</loc>
       
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/nodejs/</loc>
-      
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-29T00:00:00+00:00</lastmod>
       
       
       
@@ -235,7 +189,7 @@
     <url>
       <loc>/posts/</loc>
       
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
       
       
       
@@ -259,7 +213,7 @@
     <url>
       <loc>/tags/</loc>
       
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
       
       
       
@@ -368,18 +322,6 @@
       <loc>/tags/themes/</loc>
       
       <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/%E5%A4%A7%E9%81%93/</loc>
-      
-      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
       
       
       
