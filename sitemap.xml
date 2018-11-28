@@ -3,7 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>http://example.org/2018/hugo/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/about/</loc>
+      
+      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>http://example.org/categories/</loc>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/github/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/hexo/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
       
       
       
@@ -15,6 +59,32 @@
     <url>
       <loc>http://example.org/</loc>
       
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/nodejs/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/posts/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      
       
       
       <priority>0</priority>
@@ -24,6 +94,20 @@
   
     <url>
       <loc>http://example.org/tags/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/%E5%A4%A7%E9%81%93/</loc>
+      
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
       
       
       
