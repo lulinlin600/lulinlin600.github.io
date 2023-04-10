@@ -52,7 +52,9 @@
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://sss.zeabur.app/test/lll/lib/drpy2.min.js","ext":"https://sss.zeabur.app/test/lll/js/菜狗.js"},
 
 {"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://sss.zeabur.app/test/lll/lib/token.txt"}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://sss.zeabur.app/test/lll/zb.txt"]}]}],
+"lives" : [{"group" : "redirect","channels" : [{"name" : "live",
+    "urls": [
+      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mMDAwLmJhY2tibGF6ZWIyLmNvbS9maWxlL3VubGVzcy9taWlpaS9saXZlLnR4dA==" ]}]}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
